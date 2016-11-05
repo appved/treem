@@ -2,7 +2,7 @@
 
 Описание класа
 
-========
+======
 
 ### Свойства
 
@@ -11,11 +11,13 @@ protected $global;
 protected $request;
 ```
 
-$global - Экземпляр класса [Global](http://example.com/)
+`$global` - Экземпляр класса Global
 
-$request - Экземпляр класса [Request](http://example.com/)
+`$request` - Экземпляр класса Request
 
-========
+Ссылки: [Global](http://example.com/), [Request](http://example.com/)
+
+======
 
 ### Методы
 
