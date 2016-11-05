@@ -2,16 +2,20 @@
 
 ---
 
->Описание класа
+> Описание класа
 
 ---
 
 ### Свойства
 
-````php
-    protected $setting;
+```php
+	protected $global;
 	protected $request;
-````
+```
+
+$global - Экземпляр класса [Global](http://example.com/)
+
+`$request` - Экземпляр класса [Request](http://example.com/)
 
 ---
 
